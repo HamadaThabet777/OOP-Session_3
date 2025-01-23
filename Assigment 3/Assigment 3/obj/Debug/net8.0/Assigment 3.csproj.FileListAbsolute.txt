@@ -1,0 +1,14 @@
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\bin\Debug\net8.0\Assigment 3.exe
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.AssemblyInfoInputs.cache
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.AssemblyInfo.cs
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.csproj.CoreCompileInputs.cache
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.dll
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\refint\Assigment 3.dll
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.pdb
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\bin\Debug\net8.0\Assigment 3.deps.json
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\bin\Debug\net8.0\Assigment 3.runtimeconfig.json
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\bin\Debug\net8.0\Assigment 3.dll
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\bin\Debug\net8.0\Assigment 3.pdb
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\Assigment 3.genruntimeconfig.cache
+F:\Rout\OOP\session 3\Assigment 3\Assigment 3\obj\Debug\net8.0\ref\Assigment 3.dll

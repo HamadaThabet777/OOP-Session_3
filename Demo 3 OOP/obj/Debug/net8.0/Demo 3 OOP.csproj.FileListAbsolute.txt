@@ -1,0 +1,14 @@
+F:\Rout\OOP\session 3\Demo 3 OOP\bin\Debug\net8.0\Demo 3 OOP.exe
+F:\Rout\OOP\session 3\Demo 3 OOP\bin\Debug\net8.0\Demo 3 OOP.deps.json
+F:\Rout\OOP\session 3\Demo 3 OOP\bin\Debug\net8.0\Demo 3 OOP.runtimeconfig.json
+F:\Rout\OOP\session 3\Demo 3 OOP\bin\Debug\net8.0\Demo 3 OOP.dll
+F:\Rout\OOP\session 3\Demo 3 OOP\bin\Debug\net8.0\Demo 3 OOP.pdb
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.AssemblyInfoInputs.cache
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.AssemblyInfo.cs
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.csproj.CoreCompileInputs.cache
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.dll
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\refint\Demo 3 OOP.dll
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.pdb
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\Demo 3 OOP.genruntimeconfig.cache
+F:\Rout\OOP\session 3\Demo 3 OOP\obj\Debug\net8.0\ref\Demo 3 OOP.dll
